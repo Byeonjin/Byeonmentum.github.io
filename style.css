@@ -1,0 +1,45 @@
+.hidden {
+    display: none;
+}
+
+body *{
+    text-align: center;
+}
+
+#weather span {
+    color:crimson;
+    font-style:normal;
+    font-size: 30px;
+}
+
+#weather {
+    margin-bottom: 20px;
+}
+
+#clock {
+    font-size: 10em;
+    color:antiquewhite;
+    margin: 20px;
+    position: absolute y = 100px;
+}
+
+
+#greeting {
+    color: white;
+    text-shadow:2px 2px 2px gray;
+    margin-top: 4em;
+}
+
+#quote {
+    color: white;
+    margin-top: 1em;
+    font-size: 1.2em;
+}
+#quote span {
+    background-color:cornflowerblue;
+    
+}
+
+#author {font-style: italic;
+color:gold;
+background-color:cornflowerblue;}

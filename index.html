@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Byoenmentum</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1 id="greeting" class="hidden"></h1>
+
+    <h2 id="clock">00:00:00</h2>
+
+    
+    <hr>
+
+
+    <div id="weather">
+        <h2>오늘의 날씨는?</h2>
+        <span id = "info"></span>
+        <span id = "city"></span>
+    </div>
+    
+
+    <form id="login-form" class="hidden">
+        <input required maxlength="15" type="text" placeholder="what is your name?" />
+        <input type="submit" value="Log in" />
+    </form>
+
+    <hr>
+
+
+    <h2>To Do list</h2>
+    <form id="todo-form">
+        <input type="text" placeholder="Write a To Do and Press Enter" required>
+    </form>
+
+    <ul id="todo-list">
+    </ul>
+    <hr>
+
+    <h2>오늘의 명언</h2>
+    <div id="quote">
+        <span></span>
+        <h3 id ="author"></span>
+    </div>
+
+
+    <script src="greetings.js"></script>
+    <script src="clock.js"></script>
+    <script src="quotes.js"></script>
+    <script src="background.js"></script>
+    <script src="todo.js"></script>
+    <script src="weather.js"></script>
+</body>
+
+</html>
