@@ -1,6 +1,4 @@
 # Byeonmentum.github.io
-
-# codingtest
 ![수달](https://user-images.githubusercontent.com/54176384/182755701-0897b659-ed4d-4a83-b33c-16e902fdf659.png)
 
 # 소개
