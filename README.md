@@ -18,6 +18,7 @@ chrome application momentum clone coding
 html, css, javascript
 
 # 이후 추가 작업
-Projectlion HTML/CSS 강의 수강 후 페이지 다시 꾸며보기
+1. Projectlion HTML/CSS 강의 수강 후 페이지 다시 꾸며보기
+2. 진짜 내가 사용 할 수 있도록 여러가지 기능 추가해보기(1.github 잔디, 2...)
 
 #꾸준히 열심히!
